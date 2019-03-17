@@ -1,0 +1,169 @@
+
+
+/*9. change everything to kabob case*/
+
+* {
+   font-family: 'Open Sans', sans-serif;
+}
+
+body {
+   border-style: solid;
+   border-width: 2px;  
+}
+
+.icon {
+   width: 50px;
+   height: auto;
+   padding: 10px 5px 5px 5px;
+   margin-left: 20px;
+}
+
+nav {
+   height: 70px;
+   background-color: #75e2e6;
+   border-bottom: 2px solid #048eaa;
+}
+
+ul {
+   float: right;
+   padding-bottom: 12px;
+}
+
+li {
+   display: inline-block;
+   padding: 10px;
+   font-weight: 400px;
+}
+
+.navStuff li {
+   list-style-type: none;
+}
+
+section {
+   background-image: url("images/park.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: relative;
+   padding-top: 10px;
+   background-color: lightgrey;
+   background-blend-mode: multiply;
+}
+
+.frontDog {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   width: 30%;
+}
+
+.dogInfo {
+   width: 30%;
+   margin: 0 auto;
+}
+
+.userInput {
+   width: 100%;
+   height: 44px;
+   margin-bottom: 20px;
+   border: 0;
+}
+
+.topButton {
+   width: 100%;
+   height: 50px;
+   margin-bottom: 10px;
+   background-color: #75e2e6;
+   font-size: 15px;
+}
+
+h1 {
+   color: white;
+}
+
+.firstHeading {
+   font-weight: 400;
+}
+
+.someDogs {
+   font-weight: 700;
+}
+
+.blueScarf {
+   border-radius: 50%;
+   height: 230px;
+   border: 5px solid #048eaa;
+}
+
+p.name {
+   color: white;
+   text-align: left;
+}
+
+input {
+   font-size: 20px;
+}
+
+/*.div1 {
+   display: block;
+   margin-bottom: 25px;
+   width: 290px;
+   height: 60px;
+   margin-top: 10px;
+}*/
+
+.yellowBackground, 
+.greyBackground, 
+.limeBackground {
+   border-radius: 50%;
+   height: 230px;
+   border: 5px solid #048eaa;
+}
+
+article {
+   display: inline-block;
+}
+
+.column1, 
+.column2, 
+.column3 {
+   width: 25%;
+   text-align: center;
+   font-size: 20px;
+   margin-left: 80px;
+   display: inline-block;
+}
+
+
+.dogText {
+   text-align: left;
+   width: 50;
+}
+
+.bottomButton {
+   width: 85%;
+   height: 50px;
+   font-size: 20px;
+   background-color: #048eaa;
+   color: white;   
+}
+
+h2 {
+   text-align: center;
+}
+
+.socialMedia {
+   background-color: #048eaa;
+   text-align: center;
+}
+
+.learnText {
+   color: white;
+}
+
+@media screen and (max-width: 600px) {
+  
+  .column {
+    display: block;
+   }
+}
