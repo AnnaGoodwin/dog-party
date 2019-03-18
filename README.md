@@ -16,3 +16,8 @@ style="float: left; margin-right: 10px;" />
 <img src="https://photos.app.goo.gl/67xPPkhULstQARdr6"
 alt="Dog Party Comp"
 style="float: left; margin-right: 10px;" />
+
+![Personal Site Pic](dog_website.png)
+
+![Comp Site Pic](dog-party-js-edition.png)
+
