@@ -17,7 +17,3 @@ style="float: left; margin-right: 10px;" />
 alt="Dog Party Comp"
 style="float: left; margin-right: 10px;" />
 
-![Personal Site Pic](dog_website.png)
-
-![Comp Site Pic](dog-party-js-edition.png)
-
